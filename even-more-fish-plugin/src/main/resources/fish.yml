@@ -92,7 +92,6 @@ fish:
       # Sets the dye colour for the leather item, make sure this uses the British "ou" spelling if repeating this elsewhere without copy/paste.
       dye-colour: "#888877"
       displayname: "Old Fisher's Hat"
-
   Rare:
     Penguin Feather:
       item:
@@ -338,4 +337,9 @@ fish:
       item:
         custom-model-data: 10
         material: SALMON
+        displayname: "Your Mother"
+    Bread Fish:
+      item:
+        material: BREAD
+        displayname: "Bread Fish"
 # That's the end!
