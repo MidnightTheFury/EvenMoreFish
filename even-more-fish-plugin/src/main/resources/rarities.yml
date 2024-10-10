@@ -53,5 +53,14 @@ rarities:
     size:
       minSize: 800
       maxSize: 4000
+  Mythic:
+    Weight: 0.8
+    colour: '&7'
+    worth-multiplier: 0.1
+    broadcast: true
+    size:
+      minsize: 1000
+      maxsize: 10000
+    
 
 # You can add/rename/remove as many rarities as you want.
