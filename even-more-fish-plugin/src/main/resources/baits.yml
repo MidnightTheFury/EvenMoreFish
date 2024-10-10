@@ -1,4 +1,14 @@
 baits:
+  Burger:
+    item:
+      material: raw_chicken
+      displayname: "&7Burger"
+      fish:
+        Mythic:
+          - "your mother"
+  catch-weight: 400
+  aplication-weight: 150
+  max-baits: 100
   Shrimp:
     item:
       material: NAUTILUS_SHELL
