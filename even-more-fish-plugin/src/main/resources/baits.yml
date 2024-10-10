@@ -5,7 +5,7 @@ baits:
       displayname: "&7Burger"
       fish:
         Mythic:
-          - "your mother"
+          - "Your Mother"
   catch-weight: 400
   aplication-weight: 150
   max-baits: 100
